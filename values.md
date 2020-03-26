@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Values"
+title: Values
 permalink: /values/
 ---
 # Communication
