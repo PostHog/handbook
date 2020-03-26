@@ -10,7 +10,7 @@ There is power in writing things down.
 * It is usually clearer than a conversation, so everyone can row in the same direction.
 * It is very leveraged as we grow a large community and look to hire people around the world.
 
-# Results
+# Results
 
 Everyone should help everyone else raise their game.
 
