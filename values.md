@@ -1,7 +1,8 @@
+---
 layout: page
 title: "Values"
 permalink: /values/
-
+---
 # Communication
 
 There is power in writing things down.
