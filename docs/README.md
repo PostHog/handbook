@@ -1,33 +1,7 @@
-# Why PostHog?
+# PostHog Handbook
 
-## Understand each user's behavior
+Welcome to the company handbook. This explains how we operate as a company.
 
-Before you build that next feature, understand how people are using what you already built.
+The reason for making it transparent is to improve our communication, one of our key [values](/handbook/values).
 
-## Know who is quitting your app
-
-Create funnels - work out where users commonly drop out.
-
-## Track which features are popular
-
-Visualize trends in your product usage.
-
-## The only developer friendly option
-
-Full underlying data access.
-Docker/Heroku or source deployment.
-Host the entire thing with the rest of your product.
-
-# Quick Start
-
-## Heroku (easiest)
-
-[1-click Deploy](https://heroku.com/deploy?template=https://github.com/posthog/posthog)
-
-## Docker
-
-Copy-paste this into your terminal:
-
-```
-docker run -t -i --rm --publish 8000:8000 -v postgres:/var/lib/postgresql posthog/posthog:preview
-```
+Anyone can submit a pull request to suggest updates or enhancements to this handbook through the PostHog [handbook repo](https://github.com/posthog/company/tree/master/docs).
