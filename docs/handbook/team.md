@@ -11,3 +11,5 @@ After that, he moved to Arachnys, where he ended up becoming the VP Sales. He ra
 ## Tim Glaser, Co-Founder and CTO
 
 ## Aaron Tanner, VP Community
+
+Aaron worked in a variety of sales roles at tech companies - he worked with James and Tim for 4 years at Arachnys.
