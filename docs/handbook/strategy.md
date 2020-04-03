@@ -13,7 +13,7 @@ We will target developers, rather than product teams to get implemented. There a
  * We can go for breadth over depth in the product, similar to GitLab, letting the community fill in the gaps.
  * Being open core means we can aim for mass adoption with our free version, without worrying about competition from hosting companies.
 * Tighter integration with developers' environments.
- * Feature flagging.
+ * Integration with git repo (feature flagging) & integration of data into local environment (terminal/localhost)
  * Working with existing databases and pipelines.
  * 1 click / 1 line install into production.
 * Defensive product-team strategy - stay at parity with their features, but don't innovate here.
@@ -37,9 +37,9 @@ We will target developers, rather than product teams to get implemented. There a
 * MRR for revenue.
 * Open company handbook - to enable a true remote and community first culture.
 
-# Planning
+# How to get there
 
-## Planning - Pre-seed
+## <strike>Pre-seed</strike>
 
 > We believe in the power of product analytics, but the fact they are just targetted at product teams means there is much more that they can do.
 
@@ -47,23 +47,21 @@ We will target developers, rather than product teams to get implemented. There a
 
 Product analytics tools already have product-market fit. We believe that developers would also find them useful. Combining this with an open source approach will mean we get a lot of adoption very easily.
 
-## Planning - Series A
+## Seed
 
 Situation:
 
 * We will have around $1.8M in cash.
-* If the world goes into a significant recession, a "capital intensive" business may become a lot harder to fuel as LPs withdraw from VCs.
-* We need to get to a series A from this money.
+* If the world goes into a significant recession, a capital intensive business may become a lot harder to fuel as LPs withdraw from VCs.
+* We need to get to a series A without raising further money.
 
-The series A could be one of the following:
+PostHog wish to build an exceptional company. We will focus on adoption as our core metric.
 
-* **option 1:** 90% adoption with some commercial proof
- * We have a ton of adoption and have demonstrated the commercial viability of what we're working on with a couple of enterprise customers for our premium features (ie $200K of ARR).
- * WAUs is our top metric
-* **option 2:** focus on adoption
- * We have an enormous amount of adoption, and have put everything we have into this. We have no revenue.
- * WAUs is our top metric
-* **option 3:** profitability
- * We focussed on profitability over adoption. We could aim for approximately $750K ARR of revenue, which would cover the costs.
- * MRR is our top metric
- * 
+* This will lead to a more impressive Series A story - we can have an order of magnitude more usage, with many impressive logos.
+* Adoption first, then finding customers from those users will be more efficient than dealing with non-inbound demand. 
+
+Making money:
+
+* We will focus on small customers first. This is because we will optimize for learning. There are more of them and they will be faster to learn from. Product analytics tools often charge 100 person startups $20-70K/year.
+* We can undercut SAAS product analytics tools because we have no hosting costs.
+* Over time, we will put more work into our innovation, and the biggest and brightest companies will realize that we are the market leader.

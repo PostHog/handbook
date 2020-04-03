@@ -51,9 +51,9 @@ It's best practice to start a discussion where possible with a Merge Request (MR
 1. Not every solution will solve the problem at hand. Keep discussions focused by **defining the problem first** and **explaining your rationale** behind the Minimal Viable Change (MVC) proposed in the MR.
 1. Be proactive and consistent with communication on discussions that have external stakeholders such as customers. It's important to keep communication flowing to keep everyone up to date. MRs can appear stale if there aren't recent discussions and no clear definition on when another update will be provided, based on feedback. This leaves those subscribed in the dark, causing unnecessary surprise if something ends up delayed and suddenly jumps to the next milestone. It is important that MRs are closed in a timely manner through approving or rejecting the open requests.
 1. Have a **bias for action** and don't aim for consensus. Every MR is a proposal, if an MRs author isn't responsive take ownership of it and complete it. Some improvement is better than none.
-1. **Cross link** issues or other MRs with related conversations. E.g. if there’s a ZenDesk ticket that caused you to create a GitLab.com MR, make sure to document the MR link in the ZenDesk ticket and vice versa. And when approving or rejecting the MR, include reason or response from ZenDesk. Put the link at the top of each MR's description with a short mention of the relationship (Report, Dependency, etc.) and use one as the central one and ideally close the alternate if duplicate.
+1. **Cross link** issues or other MRs with related conversations. And when approving or rejecting the MR, include reason or response from ZenDesk. Put the link at the top of each MR's description with a short mention of the relationship (Report, Dependency, etc.) and use one as the central one and ideally close the alternate if duplicate.
 1. If submitting a change for a feature, **update the description with the final conclusions** (Why an MR was rejected or why it was approved). This makes it much easier to see the current state of an issue for everyone involved in the implementation and prevents confusion and discussion later on.
-1. Submit the **smallest** item of work that makes sense. When proposing a change, submit the smallest reasonable commit, put suggestions for other enhancements in separate issues/MRs and link them. If you're new to GitLab and are writing documentation or instructions, submit your first merge request for at most 20 lines.
+1. Submit the **smallest** item of work that makes sense. When proposing a change, submit the smallest reasonable commit, put suggestions for other enhancements in separate issues/MRs and link them. If you're new to PostHog and are writing documentation or instructions, submit your first merge request for at most 20 lines.
 1. Do not leave MRs open for a long time. MRs should be **actionable** -- stakeholders should have a clear understanding of what changed and what they are ultimately approving or rejecting.
 1. Make a conscious effort to **prioritize** your work. The priority of items depends on multiple factors: Is someone waiting for the answer? What is the impact if you delay it? How many people does it affect, etc.?
 1. When submitting a MVC, **ask for feedback** from your peers. For example, if you're a designer and you propose a design, ping a fellow designer to review your work. If they suggest changes, you get the opportunity to improve your design and propose an alternative MR. This promotes collaboration and advances everyone's skills.
@@ -114,7 +114,7 @@ We make things public by default because [transparency is part of Communication,
 However it is [most important to focus on results](/handbook/values/#results).
 So most things are **public** unless there is a reason not to. The following items are not public by default:
 
-1. Security vulnerabilities are not public since it would allow attackers to compromise GitLab installations. We do make them public after we remediated a vulnerability. Issues that discuss how to improve upon the security posture of an implementation that is working as intended can be made public, and are often labeled as feature proposals. Security implementations that detect malicious activities cannot be made public because doing so would undermine our operations.
+1. Security vulnerabilities are not public since it would allow attackers to compromise PostHog installations. We do make them public after we remediated a vulnerability. Issues that discuss how to improve upon the security posture of an implementation that is working as intended can be made public, and are often labeled as feature proposals. Security implementations that detect malicious activities cannot be made public because doing so would undermine our operations.
 1. Financial information, including revenue and costs for the company, is confidential because we plan to be a public company one day and, as such, need to limit both the timing and content of financial information as investors will use and rely on it one day as they trade in our stock. As a rule of thumb, if it is a first step to constructing a profit, we need to keep it confidential. Examples include:
    1. the specific contract value of an opportunity
    1. total monthly cash inflow/outflow
@@ -192,7 +192,7 @@ We don't want to eliminate them.
 We set a target of Slack DMs to consist of less than 50% of messages.
 At the time that we set this target, it is about 80% of communications.
 
-Everything at GitLab is a work in progress, so if we see a culture shift where Slack is *not* where work is occurring, thus inflating the amount of communication that is personal that is occurring, we can always change this KPI, but the steady growth of Slack messages paralleling the number of team members does not seem to suggest that is the case.
+Everything at PostHog is a work in progress, so if we see a culture shift where Slack is *not* where work is occurring, thus inflating the amount of communication that is personal that is occurring, we can always change this KPI, but the steady growth of Slack messages paralleling the number of team members does not seem to suggest that is the case.
 
 The previous KPI (% of messages sent in public channels) was about public channels but since some necessary parts of the business occur in private channels (discussions around comp, hiring, recruiting- and we do A LOT of hiring), this version of the KPI makes more sense.
 Earlier in our history, 50% of all communication *was* in public channels.
@@ -222,10 +222,10 @@ Earlier in our history, 50% of all communication *was* in public channels.
 1. Unless you're in an active chat, don't break up a topic into multiple messages as each one will result in a notification which can be disruptive. Use [threads](https://get.slack.help/hc/en-us/articles/115000769927-Message-threads) if you want to provide extra info to the question/comment you posted.
 1. If you are having a hard time keeping up with messages, you can update your preferences to have Slack email you all notifications. To change the setting, go to `Preferences > Notifications > When I'm not active on desktop...` and "send me email notifications."
 1. If you agree in a message to start a video call (typically by asking "Call?") the person that didn't leave the last comment starts the call. So either respond to the "Call?" request with a video link or say "Yes" and let the other person start it. Don't say "Yes" and start a call 5 seconds later since it is likely you'll both be creating a video call link at the same time.
-1. When referencing a Slack thread in a PostHog issue, don't _only_ link to the thread. Not only will people outside of the GitLab organization be unable to access the content, but the link will expire after the Slack retention period expires. Instead:
+1. When referencing a Slack thread in a PostHog issue, don't _only_ link to the thread. Not only will people outside of the PostHog organization be unable to access the content, but the link will expire after the Slack retention period expires. Instead:
    1. **Review the contents** for confidentiality of users, customers, or any other sensitive information before posting.
    1. Copy and paste the relevant parts of the thread into the issue using blockquote formatting.
-   1. Link to the Slack thread and include `(internal)` after the link. For example: https://gitlab.slack.com/archives/C0AR2KW4B/p1555347101079800 (internal)
+   1. Link to the Slack thread and include `(internal)` after the link. For example: https://posthog.slack.com/archives/C0AR2KW4B/p1555347101079800 (internal)
    1. Post a link to the issue note in the Slack thread to let others know that discussion has moved to the issue.
 
 #### Are my direct messages and private channel conversations completely private?
@@ -244,7 +244,7 @@ Never use a Google Doc / Presentations for something non-confidential that has t
 1. If you have content in a Google Doc that is later moved to the website or handbook, [deprecate the Google Doc](#how-to-deprecate-a-google-doc).
 1. When referring to a Google Doc or folder on the Google Drive in the handbook, refrain from directly linking it. Instead, indicate the name of the doc. If you link the URL people from outside the organization can request access, creating workload and the potential for mistakes.
 (In the past, linking a Google Doc has led to inadvertently opening the sharing settings beyond what was intended.)
-This also helps prevent spam from people outside GitLab requesting access to a doc when clicking its link.
+This also helps prevent spam from people outside PostHog requesting access to a doc when clicking its link.
 1. If you are having trouble finding a shared Google Doc, make sure you [Search &lt;your domain&gt;](https://support.google.com/a/answer/3187967?hl=en) in Google Drive.
 1. In our handbook, if you find yourself wondering whether it is better to provide a public link to a Google Doc vs. writing out the content on the website, use the following guideline: Is this document frequently adapted / customized? If yes, then provide a link, making sure that the document can be _commented on_ by _anyone_ with the link. For instance, this is how we share our employment contracts. If the document is rarely customized, then provide the content directly on the site and deprecate the Google Doc.
 1. If you want to quickly find where a team member's cursor is in a Google Doc, click their icon at the top of the document and the app will jump you to the current location. This works in Sheets and Presentations as well.
@@ -286,9 +286,9 @@ This also helps prevent spam from people outside GitLab requesting access to a d
    1. Stretch your legs
    1. Grab a snack
 1. When scheduling a meeting, please try to have it start at :00 (hour) or :30 (mid-hour) to leave common start times available for other meetings on your attendees' calendars. Meetings should be for the time needed, so if you need 15 minutes just book that.
-1. When creating a calendar event that will be used company wide, please place it on the GitLab Team Meetings Calendar. That way the event is easily located by all individuals.
+1. When creating a calendar event that will be used company wide, please place it on the PostHog Team Meetings Calendar. That way the event is easily located by all individuals.
 1. When you need to cancel a meeting, make sure to delete/decline the meeting and choose the option **Delete & update guests** to make sure everyone knows you can't attend and don't wait for you.
-1. If you want to schedule a meeting with a person not on the team please use [Calendly](/handbook/tools-and-tips/#calendly). Use Google Calendar directly if scheduling with a GitLab team member.
+1. If you want to schedule a meeting with a person not on the team please use [Calendly](/handbook/tools-and-tips/#calendly). Use Google Calendar directly if scheduling with a PostHog team member.
 1. **Materials Review** are scheduled as all day not busy events as a reminder three days before the scheduled call.
 
 ### Common Meeting Problems
@@ -352,7 +352,7 @@ for a video call.
 1. Always be sure to advise participants to mute their mics if there is unnecessary background noise to ensure the speaker is able to be heard by all attendees.
 1. We start on time and do not wait for people. People are expected to join no later than the scheduled minute of the meeting (before :01 if it is scheduled for :00). The question 'is everyone here' is not needed.
 1. It feels rude in video calls to interrupt people. This is because the latency causes you to talk over the speaker for longer than during an in-person meeting. We should not be discouraged by this, the questions and context provided by interruptions are valuable.
-This is a situation where we have to do something counter-intuitive to make all-remote meetings work. In GitLab, everyone is encouraged to interrupt the speaker in a video call to ask a question or offer context. We want everyone to contribute instead of a monologue.
+This is a situation where we have to do something counter-intuitive to make all-remote meetings work. In PostHog, everyone is encouraged to interrupt the speaker in a video call to ask a question or offer context. We want everyone to contribute instead of a monologue.
 Just like in-person meetings be cognizant of when, who, and how you interrupt, we don't want [manterrupting](http://time.com/3666135/sheryl-sandberg-talking-while-female-manterruptions/).
 1. We end on the scheduled time. It might feel rude to end a meeting, but you're actually allowing all attendees to be on time for their next meeting.
 1. Do not use the chat of products like Zoom to communicate during the call, use the linked document instead. This allows everyone to contribute additional questions, answers, and links in the relevant place. It also makes it easier for people in conflicting timezones to contribute questions before the call and makes it easier to review questions and answers after the call, which can be before watching the recording.
@@ -454,7 +454,7 @@ If you add blocks of time spent on recurring tasks to your Google Calendar to re
 1. Do not use rich text, it makes it hard to copy/paste. Use Markdown to format text that is stored in a Git repository. In Google Docs use "Normal text" using the style/heading/formatting dropdown and paste without formatting.
 1. We use Unix style (lf) line endings, not Windows style (crlf), please ensure `*.md text eol=lf` is set in the repository's `.gitattributes` and run `git config --global core.autocrlf input` on your client.
 1. Always write a paragraph on a single line. Use soft breaks ("word wrap") for readability. Don't put in a hard return at a certain character limit (e.g., 80 characters) and don't set your IDE to automatically insert hard breaks. Merge requests for the blog and handbook are very difficult to edit when hard breaks are inserted.
-1. Do not create links like "here" or "click here". All links should have relevant anchor text that describes what they link to, such as: "GitLab CI source installation documentation". Using meaningful links is important to both search engine crawlers (SEO) and people with accessibility issues.
+1. Do not create links like "here" or "click here". All links should have relevant anchor text that describes what they link to. Using meaningful links is important to both search engine crawlers (SEO) and people with accessibility issues.
 This guidance should be followed in all places links are provided, whether in the handbook, website, GoogleDocs, or any other content.
 Avoid writing GoogleDocs content which states - `Zoom Link [Link]`.
 Rather, paste the full link directly following the word `Zoom`.

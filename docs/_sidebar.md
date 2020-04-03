@@ -1,18 +1,14 @@
 - [Features](/features)
 - [Handbook](/handbook/)
-	- Company
-	 - [Values](/handbook/values)
-	 - [Communication](/handbook/communication)
-	 - [Story](/handbook/story)
-	 - [Culture](/handbook/culture)
+	- [Values](/handbook/values)
+	- [Communication](/handbook/communication)
+	- [Story](/handbook/story)
+	- [Culture](/handbook/culture)
 	- [Investors](/handbook/investors)
 	- People
-	 - [Team](/handbook/team)
-	- Growth
-	 - Strategy
+	- [Team](/handbook/team)
+	- [Strategy](/handbook/strategy)
 - [Careers](/careers)
-- Blog
 - [Pricing](/pricing)
 - [Contact](/contact)
 - [Terms](/terms)
-
