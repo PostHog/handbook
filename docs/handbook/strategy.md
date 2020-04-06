@@ -60,6 +60,10 @@ PostHog wish to build an exceptional company. We will focus on adoption as our c
 * This will lead to a more impressive Series A story - we can have an order of magnitude more usage, with many impressive logos.
 * Adoption first, then finding customers from those users will be more efficient than dealing with non-inbound demand. 
 
+What we will build:
+
+* [Roadmap](https://docs.posthog.com/#/roadmap)
+
 Making money:
 
 * We will focus on small customers first. This is because we will optimize for learning. There are more of them and they will be faster to learn from. Product analytics tools often charge 100 person startups $20-70K/year.
