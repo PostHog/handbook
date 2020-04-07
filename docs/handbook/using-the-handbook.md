@@ -14,9 +14,9 @@ You need to install NPM and Node. The easiest way to do this is to start by inst
 ### 2 - First time set up
 !> The content that renders the website is inside the ```/docs``` folder.
 
-* Go into your terminal, run ```git init``
-* Now, run ```git clone https://github.com/posthog/company.git```
-* Run ```cd company``` to navigate into the correct folder
+* Go into your terminal, run ```git init```
+* Now, run ```git clone https://github.com/posthog/handbook.git```
+* Run ```cd handbook``` to navigate into the correct folder
 
 ### 3 - Making a change
 * Run ```git pull``` to make sure your local version is up to date
@@ -24,6 +24,7 @@ You need to install NPM and Node. The easiest way to do this is to start by inst
 * Run ```docsify serve docs``` (do **not** run ```docsify init``` as that'll overwrite the config)
 * Edit any of the markdown as you need to, and save your changes.
 * Check the changes look ok locally by visiting ```http://localhost:3000```
+* Press Control + C to quit the running process
 * Go, and run ```git status```, this will show you the files that need to change
 * Run ```git add .```, this will add your changes to the commit
 * Run ```git commit -m "a short description of your change"```
