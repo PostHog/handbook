@@ -7,6 +7,7 @@
 	- [Investors](/handbook/investors)
 	- [Team](/handbook/team)
 	- [Strategy](/handbook/strategy)
+- [Handbook](/handbook/using-the-handbook)
 - [Careers](/careers)
 - [Pricing](/pricing)
 - [Contact](/contact)
