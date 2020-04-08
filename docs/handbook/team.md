@@ -12,4 +12,6 @@ After that, he moved to Arachnys, where he ended up becoming the VP Sales. He ra
 
 ## Aaron Tanner, VP Community
 
-Aaron worked in a variety of sales roles at tech companies - he worked with James and Tim for 4 years at Arachnys.
+Aaron met James and Tim at Arachnys where he joined as Arachnys' earliest salesperson. He worked with them for 4 years before he left to join a record label that got 2 UK chart No.1s
+
+This circuitous route meant he has acted as an online marketer, product manager and as a salesperson/leader all of which go into growing and supporting PostHog's community.
