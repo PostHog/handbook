@@ -9,6 +9,8 @@ Below is a table of PostHog features and how this compares with the functionalit
 
 |  Feature 	|   PostHog	| Amplitude  	|  Mixpanel 	| Heap  	|
 |:-:	|:-:	|:-:	|:-:	|:-:	|
+|   Self Hosted	|   ✔	|   	|   	|   	|
+|   Managed Hosting	|   ✔	|   ✔	|   ✔	|   ✔	|
 |   Autocapture	|   ✔	|   	|   	|   ✔	|
 |   API 	|   ✔	|   ✔	|   ✔	|   ✔	|
 |   In-App Events Tracking	|   ✔	|   ✔	|   ✔	|   ✔	|
@@ -20,17 +22,14 @@ Below is a table of PostHog features and how this compares with the functionalit
 |   Push Notifications	|   	|   ✔	|   ✔	|   ✔	|
 |   Retention Tracking	|   	|   ✔	|   ✔	|   ✔	|
 |   Revenue Tracking	|   	|   ✔	|   ✔	|   ✔	|
-|   Uninstall Tracking	|   	|   ✔	|   	|   	|
 |   Data Import	|   	|   ✔	|   ✔	|   	|
 |   Data Export	|   	|   ✔	|   ✔	|   	|
 |   External Integrations	|   ✔	|   ✔	|   ✔	|   ✔	|
-|   Keyword Tracking	|   	|   ✔	|   ✔	|   ✔	|
-|   Link Tracking	|   	|   	|   ✔	|   	|
+|   Keyword (UTM) Tracking	|   	|   ✔	|   ✔	|   ✔	|
+|   Email Link Tracking	|   	|   	|   ✔	|   	|
 |   Multi-Site	|   ✔	|   ✔	|   ✔	|   ✔	|
 |   Multi User	|   ✔	|   ✔	|   ✔	|   ✔	|
 |   A/B Testing	|   	|   ✔	|   ✔	|   	|
 |   Direct SQL Access	|   ✔	|   	|   	|   ✔ 	|
 |   Engagement Scoring	|   	|   	|   	|   	|
-|   Self Hosted	|   ✔	|   	|   	|   	|
-|   Managed Hosting	|   ✔	|   ✔	|   ✔	|   ✔	|
 |   Full Data History	|   ✔	|   	|   	|   	| 
