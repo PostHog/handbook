@@ -7,10 +7,9 @@
 	- [Investors](/handbook/investors)
 	- People
 		- [Team](/handbook/team)
-		- [Time Off](/handbook/time-off.md)
+		- [Time Off](/handbook/time-off)
 	- [Strategy](/handbook/strategy)
+		- [Business Model](/handbook/business-model)
 - [Handbook](/handbook/using-the-handbook)
 - [Careers](/careers)
-- [Pricing](/pricing)
-- [Contact](/contact)
 - [Terms](/terms)
