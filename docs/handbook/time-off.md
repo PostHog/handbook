@@ -30,7 +30,7 @@ The same rules as above apply regardless of the vacation length.
 
 If you are sick, you don't need to work and you will be paid. This is assuming you need a day or two off, just take them.
 
-If it was anticpated you'd be working in anything synchronous (ie calls with clients, standups), we'd appreciate a heads up. However, if you're really very unwell, please don't worry about work - the world won't end.
+Please let your manager know if you need to take off due to illness as far in advance as is possible.
 
 For extended periods of illness, please speak to us so we can work out a plan.
 
