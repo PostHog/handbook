@@ -5,7 +5,9 @@
 	- [Story](/handbook/story)
 	- [Culture](/handbook/culture)
 	- [Investors](/handbook/investors)
-	- [Team](/handbook/team)
+	- People
+		- [Team](/handbook/team)
+		- [Time Off](/handbook/time-off.md)
 	- [Strategy](/handbook/strategy)
 - [Handbook](/handbook/using-the-handbook)
 - [Careers](/careers)
