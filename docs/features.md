@@ -16,20 +16,22 @@ Below is a table of PostHog features and how this compares with the functionalit
 |   In-App Events Tracking	|   ✔	|   ✔	|   ✔	|   ✔	|
 |   Conversion Tracking	|   ✔	|   ✔	|   ✔	|   ✔	|
 |   Dashboard	|   ✔	|   ✔	|   ✔	|   ✔	|
-|   Data Visualisation	|  ✔ 	|   ✔	|   ✔	|   	|
-|   Cohort Analysis	|   ✔	|   ✔	|   ✔	|   ✔	|
-|   Funnel Analysis	|   ✔	|   ✔	|   ✔	|   ✔	|
+|   Data Visualisation	|  ✔* 	|   ✔	|   ✔	|   	|
+|   Cohort Analysis	|   ✔*	|   ✔	|   ✔	|   ✔	|
+|   Funnel Analysis	|   ✔*	|   ✔	|   ✔	|   ✔	|
 |   Push Notifications	|   	|   ✔	|   ✔	|   ✔	|
 |   Retention Tracking	|   	|   ✔	|   ✔	|   ✔	|
+|   User Engagement Tracking	|  ✔* 	|   ✔	|   ✔	|   ✔	|
 |   Revenue Tracking	|   	|   ✔	|   ✔	|   ✔	|
 |   Data Import	|   	|   ✔	|   ✔	|   	|
 |   Data Export	|   	|   ✔	|   ✔	|   	|
-|   External Integrations	|   ✔	|   ✔	|   ✔	|   ✔	|
+|   External Integrations	|   ✔*	|   ✔	|   ✔	|   ✔	|
 |   Keyword (UTM) Tracking	|   	|   ✔	|   ✔	|   ✔	|
 |   Email Link Tracking	|   	|   	|   ✔	|   	|
 |   Multi-Site	|   ✔	|   ✔	|   ✔	|   ✔	|
 |   Multi User	|   ✔	|   ✔	|   ✔	|   ✔	|
 |   A/B Testing	|   	|   ✔	|   ✔	|   	|
 |   Direct SQL Access	|   ✔	|   	|   	|   ✔ 	|
-|   Engagement Scoring	|   	|   	|   	|   	|
 |   Full Data History	|   ✔	|   	|   	|   	| 
+
+\* Full parity has not been achieved for this feature yet.
