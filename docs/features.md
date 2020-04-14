@@ -35,3 +35,4 @@ Below is a table of PostHog features and how this compares with the functionalit
 |   Full Data History	|   ✔	|   	|   	|   	| 
 
 \* Full parity has not been achieved for this feature yet.
+You can follow our progress here: https://github.com/PostHog/posthog/projects/5
