@@ -8,6 +8,9 @@
 	- People
 		- [Team](/handbook/team)
 		- [Time Off](/handbook/time-off)
+		- [Spending Money](/handbook/spending-money)
+		- [Side Gigs](/handbook/side-gigs)
+		- [Security](/handbook/security)
 	- [Strategy](/handbook/strategy)
 		- [Business Model](/handbook/business-model)
 - [Handbook](/handbook/using-the-handbook)
