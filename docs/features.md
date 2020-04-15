@@ -16,17 +16,17 @@ Below is a table of PostHog features and how this compares with the functionalit
 |   In-App Events Tracking	|   ✔	|   ✔	|   ✔	|   ✔	|
 |   Conversion Tracking	|   ✔	|   ✔	|   ✔	|   ✔	|
 |   Dashboard	|   ✔	|   ✔	|   ✔	|   ✔	|
-|   Data Visualisation	|  ✔* 	|   ✔	|   ✔	|   	|
-|   Cohort Analysis	|   ✔*	|   ✔	|   ✔	|   ✔	|
-|   Funnel Analysis	|   ✔*	|   ✔	|   ✔	|   ✔	|
+|   Data Visualisation	|  ✔\* 	|   ✔	|   ✔	|   	|
+|   Cohort Analysis	|   ✔\*	|   ✔	|   ✔	|   ✔	|
+|   Funnel Analysis	|   ✔\*	|   ✔	|   ✔	|   ✔	|
 |   Push Notifications	|   	|   ✔	|   ✔	|   ✔	|
-|   Retention Tracking	|   	|   ✔	|   ✔	|   ✔	|
-|   User Engagement Tracking	|  ✔* 	|   ✔	|   ✔	|   ✔	|
+|   Retention Tracking	|   ✔	|   ✔	|   ✔	|   ✔	|
+|   User Engagement Tracking	|  ✔\* 	|   ✔	|   ✔	|   ✔	|
 |   Revenue Tracking	|   	|   ✔	|   ✔	|   ✔	|
-|   Data Import	|   	|   ✔	|   ✔	|   	|
-|   Data Export	|   	|   ✔	|   ✔	|   	|
-|   External Integrations	|   ✔*	|   ✔	|   ✔	|   ✔	|
-|   Keyword (UTM) Tracking	|   	|   ✔	|   ✔	|   ✔	|
+|   Data Import	|  ✔\* 	|   ✔	|   ✔	|   	|
+|   Data Export	|  ✔\* 	|   ✔	|   ✔	|   	|
+|   External Integrations	|   ✔\*	|   ✔	|   ✔	|   ✔	|
+|   Keyword (UTM) Tracking	|   ✔	|   ✔	|   ✔	|   ✔	|
 |   Email Link Tracking	|   	|   	|   ✔	|   	|
 |   Multi-Site	|   ✔	|   ✔	|   ✔	|   ✔	|
 |   Multi User	|   ✔	|   ✔	|   ✔	|   ✔	|
