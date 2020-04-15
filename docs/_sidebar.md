@@ -17,4 +17,4 @@
 - [Careers](/careers)
 - [Terms](/terms)
 - Product Led Growth
-	- [What is product led growth](What-is-product-led-growth)
+	- [What is product led growth](what-is-product-led-growth)
