@@ -5,9 +5,9 @@ Any process is a balance between speed and control. If we have a huge process th
 
 If we have 0 process, we will release quickly but everything will be broken.
 
-## 1. How to decide what to build
+!> This guide is aimed at people who work for PostHog. If you want to contribute, [see our contributing guide](https://docs.posthog.com/#/contributing).
 
-!> This is less relevant if you're contributing. Feel free to work on whatever you feel like :)
+## 1. How to decide what to build
 
 There are 3 places that work comes from.
 
@@ -43,6 +43,7 @@ When we review a PR, we'll look at the following things:
 - Does the solution make sense?
 - Will the code perform with millions of events/users/actions?
 - Are there tests and do they test the right things?
+- Are there any security flaws?
 
 Things we do not care about during review
 - Syntax. If we're arguing about syntax, that means we should install a code formatter
