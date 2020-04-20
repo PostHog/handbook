@@ -5,12 +5,18 @@
 	- [Story](/handbook/story)
 	- [Culture](/handbook/culture)
 	- [Investors](/handbook/investors)
-	- [Team](/handbook/team)
+	- People
+		- [Team](/handbook/team)
+		- [Time Off](/handbook/time-off)
+		- [Spending Money](/handbook/spending-money)
+		- [Side Gigs](/handbook/side-gigs)
+		- [Security](/handbook/security)
 	- [Strategy](/handbook/strategy)
+		- [Business Model](/handbook/business-model)
 - /dev
   - [Development Process](/dev/development-process/development-process)
 - [Handbook](/handbook/using-the-handbook)
 - [Careers](/careers)
-- [Pricing](/pricing)
-- [Contact](/contact)
 - [Terms](/terms)
+- Product Led Growth
+	- [What is product led growth](/what-is-product-led-growth)
