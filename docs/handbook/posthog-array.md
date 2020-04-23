@@ -1,10 +1,10 @@
 # The PostHog Array 
 
 The PostHog Array is our release newsletter and blog post, it serves 2 purposes
-- Updating the community that a new version has been released and what new features and functionaloty they can expect if they update.
+- Updating the community that a new version has been released and what new features and functionality they can expect if they update.
 - Updating the community on PostHog itself, what we have been doing, finding interesting as well as selecting favorite contributions from the community.
 
-This section of the Handbook will guide you through generate when PostHog is releasing a new version.
+This section of the Handbook will guide you through generating the PostHog Array when PostHog is releasing a new version.
 
 ## 1. What has happened since the last release?
 
@@ -23,7 +23,9 @@ As part of releasing a new version you will need to figure out what has been [up
 
 ## 2. Write the PostHog Array
 
-Create a new post in the WP PostHog domain, the title is always The PostHog Array followed by the version number. Categrorize this as the Weekly Update. The featured image should be a high quality image of a Hedgehog with a width of 2000 pixels.
+Create a new post in the WP PostHog domain, the title is always The PostHog Array followed by the version number. Categrorize this as the Weekly Update. The featured image should be a high quality image of a (cute) Hedgehog with a width of 2000 pixels.
+
+The image needs to be available for commercial use without attribution, [unsplash](https://unsplash.com/) is a good place to use.
 
 The first section should always include links to the PostHog docs regarding [upgrading.](https://docs.posthog.com/#/upgrading-posthog)
 
