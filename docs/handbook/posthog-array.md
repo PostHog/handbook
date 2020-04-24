@@ -43,7 +43,7 @@ PR of the week should highlight a contributor we are particularly thankful for p
 
 Repo round up should be 3 interesting repositories that may have come from HN, github trending or other source that week.
 
-PostHog news can cover any news about PostHog the company or any of it's employees.
+PostHog news can cover any news about PostHog the company or any of its employees.
 
 ## 3. Distributing the PostHog Array
 
