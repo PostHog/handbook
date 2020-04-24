@@ -44,4 +44,4 @@ What we're planning for the next month. This context increases our chances of ge
 ------------------------------------------------
 ```
 
-We do not share investor updates publically. This is because we often need to mention specific clients, legal and finance issues, all of which are in the rare category of being potentially harmful to discuss.
+We do not share investor updates publicly. This is because we often need to mention specific clients, legal and finance issues, all of which are in the rare category of being potentially harmful to discuss.
