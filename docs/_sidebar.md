@@ -5,6 +5,7 @@
 	- [Story](/handbook/story)
 	- [Culture](/handbook/culture)
 	- [Investors](/handbook/investors)
+		- [Investor updates](/handbook/investor-updates)
 	- People
 		- [Team](/handbook/team)
 		- [Time Off](/handbook/time-off)
@@ -13,7 +14,7 @@
 		- [Security](/handbook/security)
 	- [Strategy](/handbook/strategy)
 		- [Business Model](/handbook/business-model)
-- /dev
+- Engineering
   - [Development Process](/dev/development-process/development-process)
 - [Handbook](/handbook/using-the-handbook)
 - [Careers](/careers)
