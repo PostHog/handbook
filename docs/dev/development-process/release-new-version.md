@@ -21,7 +21,7 @@ Only bugfixes are allowed to be merged into this branch (and thus put on product
 - [ ] Figure out what's updated in this release
   - `git checkout release-[version]`
   - `git log --pretty=format:%s [old-version]..head`
-- [ ] Write up the PostHog array blogpost
+- [ ] Write up the PostHog array [blogpost](https://handbook.posthog.com/#/handbook/posthog-array) 
 - [ ] Write up the changes into `CHANGELOG.md`
   - Create a pull request
 - [ ] Update the `VERSION` in `posthog/settings.py`

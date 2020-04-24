@@ -16,6 +16,8 @@
 		- [Business Model](/handbook/business-model)
 - Engineering
   - [Development Process](/dev/development-process/development-process)
+- PostHog Content
+	- [PostHog Array](/handbook/posthog-array)
 - [Handbook](/handbook/using-the-handbook)
 - [Careers](/careers)
 - [Terms](/terms)
