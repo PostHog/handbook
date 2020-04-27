@@ -77,10 +77,10 @@ We'll have three routes to generating revenue
 Now that we've raised our seed, we have the money to comfortably hire about 8 remote people and have 3 years of runway, taking us to the end of Q2 2023.
 
 A couple of "rules":
-* Tim and James would like to remain [working managers](https://m.signalvnoise.com/this-is-why-we-have-working-managers-at-basecamp-and-why-microsoft-and-apple-stumbled-when-they/).
+* Tim and James should remain [working managers](https://m.signalvnoise.com/this-is-why-we-have-working-managers-at-basecamp-and-why-microsoft-and-apple-stumbled-when-they/).
   * That means hiring [managers of one](https://signalvnoise.com/posts/1430-hire-managers-of-one).
 * We are too small for tiered management, and will be until after we raise a Series A.
-* We don't _have_ to hire all the people we have money for. In fact, we should find ways of achieving our roadmap with the fewest people possible.
+* We don't _have_ to hire all the people we have money for. In fact, we should find ways of achieving our roadmap with the fewest people possible in the given timeframe.
 
 At the moment, our team is heavily weighted towards frontend/backend development. We're currently lacking:
 * Deep experience with DevOps and the various cloud providers
