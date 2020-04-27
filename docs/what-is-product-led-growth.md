@@ -18,7 +18,7 @@ This would mean **marketing** to your potential user base so they could become a
 
 It would look something like this:
 
-![Sales Funnel](https://posthog.com/wp-content/uploads/2020/04/Sales-funnel.png)
+![Sales Funnel](https://posthog.com/wp-content/uploads/2020/04/Sales-funnel-1.png)
 
 This approach means to grow, you can focus on getting more potential users into the top of the funnel or getting a greater percentage of prospects through the various stages.
 
@@ -32,18 +32,18 @@ Ultimately this model can lead to cognitive bias - it leads to a single result a
 
 Product led growth reimagines the user lifecycle as a circle with users at the center. 
 
-![Sales flywheel](https://posthog.com/wp-content/uploads/2020/04/Events_Log-1.png)
+![Sales flywheel](https://posthog.com/wp-content/uploads/2020/04/Events_Log-1-1.png)
 
 Growth tactics will tend to work regardless of whether you follow the old fashioned way or a circular user lifecycle. However because your actions don’t aim to just move a user in a single direction and take into account continuous operation you can reduce friction in your onboarding process, and increase the speed at which you grow. 
 
 
 Those funnel stages instead become:
 
-**Understand / Attract / Acquire Users**
+Awareness / Traditional Marketing →  **Understand / Attract / Acquire Users**
 
-**Communicate / Engage / Activate Users**
+Interest / Sales outreach and closing →  **Communicate / Engage / Activate Users**
 
-**Deliver / Delight / Retain Users**
+Decision / Account Management or Customer success →  **Deliver / Delight / Retain Users**
 
 And by repeating this process you will increase user acquisition as retained users will help you attract new ones.
 
@@ -52,55 +52,117 @@ And by repeating this process you will increase user acquisition as retained use
 |   Pros	|   Places customers at the center - forces strategic changes on your product to massively increase growth.	|  Focuses tactical changes to user acquisition process to increase conversion. 	|
 |   Cons	|   Strategic focus requires organizational buy-in.	|   Can be transactional, creates a lot of effort for 1 purchase or sale that must be repeated.	|
 
+------
 
-### Dropbox was excellent at Understanding / Attracting / Acquiring Users 
+## Airtable is excellent at Understanding / Attracting / Acquiring Users 
 
-![Dropbox logo](https://posthog.com/wp-content/uploads/2020/04/dropboxlogo.png)
+![Airtable logo](https://posthog.com/wp-content/uploads/2020/04/airtable.png)
 
-
-The first step segment is attracting new users of your product - in doing so you need to understand why they use your product - ideally not “people use my product because x” but identifying the root causes of this.
+The first segment is attracting new users of your product - in doing so you need to understand why they use your product - ideally not “people use my product because x” but identifying the root causes of this.
 
 [Think about the 5 whys used in Toyota's manufacturing process now used within Kaizen,lean manufacturing and Six Sigma](https://en.wikipedia.org/wiki/Five_whys)
 
-[Drew Houston (CEO & Founder) said](https://www.slideshare.net/gueste94e4c/dropbox-startup-lessons-learned-3836587) it was so important to know where their target audience was and speak to them in an authentic way to get real feedback.
+Airtable did not start out believing the world needed improved spreadsheets. Howie Liu (Airtable's CEO) recognised that the vast majority of spreadsheets were being used for data storage.
 
-![Dropbox HN Launch](https://posthog.com/wp-content/uploads/2020/04/My_YC_app__Dropbox_-_Throw_away_your_USB_drive___Hacker_News.png)
+"*Spreadsheets are really optimized for numerical analysis and financial calculations. But almost 90% of spreadsheets don’t have formulas. Most are used for organizing purposes.*"
 
-Once Dropbox thought they understood their value they could apply tactics to acquire more users - Drew mentions that they spent more money on user acquisition than the return from those new customers (up to $388 for a $99 product). They had hired a PR firm, spent money on Adwords, hid their free version with referrals from paid search - all traditional tactics within a Sales Funnel.
+Understanding this led Airtable to develop in effect a database with a spreadsheet front-end - a product that did data storage well without it's user having to be an engineer.
 
-But they still reached 1 million users 7 months after launch.
+As Howie Liu mentioned in a HN [comment](https://news.ycombinator.com/item?id=13669281).
 
-It took 14 months till they actually worked out where they were going wrong by thinking about a typical Dropbox User:
+"*We think Airtable is to spreadsheets/Access/Filemaker what Slack is to email*"
 
-Hears about Dropbox from a friend, blog, etc and tries it > “I didn’t realise I needed this” > “It actually works” > Unexpectedly happy goes on to tell friends... 
+With this understanding Airtable could build features that would encourage more user acquistion and the marketing / sales tactics that go with them.
 
-So they tried a new strategy that focused on this - how can they amplify the organic growth their existing users were creating? 
+### 1. No code
 
-They began to run surveys, split tests, and landing page / signup flow optimizations that helped test initiatives that encouraged sharing. In conjunction they put a big investment into analytics to track the progress.
+![Drag n drop](https://posthog.com/wp-content/uploads/2020/04/airtablednd.gif)
 
-1. Referral Program
+Airtable was founded in 2012 but didn't launch it's first database till winter 2015, that's because it was very important that Airtable could be used without writing a single line of code. 
 
-![Referal image](https://posthog.com/wp-content/uploads/2020/04/referal-link.png)
+Understanding that people were using spreadsheets in lieu of databases because the required skills were lower albeit missing their core value:
 
-This was inspired by PayPal $5 signup bonus
+|   	|   Spreadsheet	|   Database	|
+|:-:	|:-:	|:-:	|
+|   Key value	|   Complex numerical capability	|  Storing different types of data 	|
+|   Required knowledge	|  Mathmatical skills to write formulas	|   Server-side scripting or SQL	|
 
-Users who referred people who would sign up would gain increased storage space in their free version of Dropbox.
+Understanding that users should be able to replicate what an engineer would use a databse for without knowing SQL allowed for the mass adoption or 'virality' that marks many product led growth successes. If someone who had struggled with spreadsheets before and received this experience Airtable created situations in which Airtable users would tell their friends.
 
-This alone permanently increased signups by 60%, and by January 2010 35% of daily signups were from the referral program. Note Dropbox knows the metrics inside out so they could speed up / reduce friction in their user life cycle by focusing on those tactics that worked best. In April 2010 users sent 2.8 million direct referral invites.
+We don't have clear data on how many users adopted Airtable from their launch in 2015 but being able to raise $8 million a few months later hints at very strong user acquisition.
 
-2. Shared Folders
+### 2. iOS at launch
 
-By allowing one user to share a folder of documents with a non-dropbox user (who once they clicked the Dropbox link became a Dropbox user) they again increased their user numbers - as Dropbox grew from 100,000 users to 4,000,000 in 15 months, 20% came from shared folders and what Drew terms “viral features”
+![iOS Airtable](https://posthog.com/wp-content/uploads/2020/04/airtable-ios-e1587742106987.png)
 
-![Shared Folders](https://posthog.com/wp-content/uploads/2020/04/shared-folders.png)
+Given the user that Airtable wanted to reach out to (and the time they were prepared to put in to get it right) it was just as important to allow users to access Airtable in mobile as well as desktop versions. 
 
-A key takeaway Drew mentions is still building a great product - “Fortunately we spent almost all of our effort making an elegant, simple product that “just works” and making users happy” 
+The decision to launch with mobile is understandable given Airtable's knowledge of their users, this [review](https://www.techrepublic.com/article/better-mobile-organization-with-airtable/) from 2016 emphasies the shallow learning curve. This aids virality and user acquisition by also creating a stark contrast with the existing usage of spreadsheet tools - not too many people use Excel on mobile. Even a [post-mortem](https://medium.com/the-fieldbook-blog/what-happened-at-fieldbook-d70bf25b3968) on Fieldbook the closest competitor when they shut down focussed on Airtable's emphasis on mobile experience and collaboration over data modelling 
 
-This drove growth despite the investment in an old fashioned funnel and it wasn't until they thought about users deeply and tracked their behavior did their growth rapidly accelerate.
+"*with more emphasis on mobile experience and collaboration features than on data modeling or formulas. These aren’t the features that were most important to the users we talked to, but they’re easier to understand*"
 
-When all was said and done their user growth was 3900% in 15 months.
+### 3. Product customization > pre-built templates
 
-### Zoom was excellent at Communicating / Engaging / Activating Users 
+![Kanban airtable](https://posthog.com/wp-content/uploads/2020/04/kanban-airtable.gif)
+
+A standard product led growth tactic is to get your own users to encourage their friends or colleagues to begin using your product, think Dropbox's referal program or shared folders.
+
+Airtable went one further, by sharing custom functionality as pre-built templates. 
+
+As their blog mentioned in 2015 3 months after their launch "*We’re seeing people using our tools in ways we never could have imagined—preserving ancient languages, tracking scientific equipment, managing construction projects, and even planning a U.S. presidential campaign*"
+
+The most popular tools built with Airtable became their pre-built templates, tracking what was used most, shared and adopted allowed Airtable to present these to new users, tightenting a feedback loop that also supported their knowledge that ease of use drove adoption best.
+
+Airtable users in effect determined the product roadmap and Airtable knew how to "listen" to them.
+
+### 4. API Builder & Zapier Integration
+
+![API Zapier](https://posthog.com/wp-content/uploads/2020/04/airtablezapier.png)
+
+If a product led growth mindset focuses on users having the easiest onboarding experience, integrations tend to come at the top of a growth engineers focus. If our product integrates with other apps people will naturally use our app more? 
+
+*But* it is also important as Airtable have shown to focus on the right integrations. More integrations doesn't necessarily equal more usage, and better adoption.
+
+They began with an API builder, users could pull data from their underlying databaes - usage is not bottlenecked if you can easily take data from where you had been storing it. The second was integrating with [Zapier](https://zapier.com/home) which itself automates the process of integrating web applications.
+
+In 2015 this meant Airtable users could connect 450 apps via Zapier with Airtable Integrations. The importance of this integration can be viewed from 3 perspectives:
+
+#### 1. Users had access to a vast number of integrations.
+	
+Rather than integrate with Slack, Google apps, or GitHub one at a time Airtable saved it's own technical overhead **AND** allowed users could pick and choose what apps they needed for their tools in Airtable, encouraging more customization as above creating the chance of more feedback loops.
+
+#### 2. No code.
+	
+Airtable is already dedicated to making it easier for users to gain the benefits of relational databases without knowing SQL - this integration aided the No code feature approach. Increasing the chances that users whould be able to share this integration with others.
+
+#### 3. It benefited Zapier as well as Airtable
+
+Airtable wasn't taking functionality to help their own growth - this integration prompted growth on Zapier's side - meaning Airtable took advantage of increased use of Zapier. So much so Zapier's own blog [hyped](https://zapier.com/blog/how-zapier-uses-airtable/) Airtable more than [once](https://zapier.com/blog/airtable-automations/), and even Slack's own [twitter noting](https://twitter.com/SlackHQ/status/708396388246286336) this integration.
+
+### 5. Airtable Universe 
+
+![airtable universe](https://posthog.com/wp-content/uploads/2020/04/airtable-universe-e1587986405828.png)
+
+This feature came along a little later than the others in 2017 as Airtable's primary learning resource center, you could think of it as part community showcase, part docs, part training program. It takes product customization to another level.
+
+However it applies learnings from the features above:
+
+* No Code: As a learning center, users didn't have to code anything to learn from it's articles and docs
+* Product Customization: Users could now see those customizations created not only from seeing pre-built templates, in addition to this bases here could immediately be cloned to and customized by the new user
+* Created a place where users could share their own Airtable content - a branded shared folder of how to get value out of Airtable
+
+Airtable universe in effect generated new ideas on how use Airtable, increasing user acquisition whilst also helping define the Airtable roadmap at the same time as being predominantly user generated.
+
+------
+
+
+Airtable didn't build these features because all product led growth strategies should, they built the features because they understood those features would lead to increased user adoption.
+
+And it got reveneue to jump 400% in 2018 to $20 million mostly via word of mouth. The way users interacted with those features in turn led Airtable to refine or improve those features. This is the second segment activating those users.
+
+------
+
+## Zoom is excellent at Communicating / Engaging / Activating Users 
 
 ![Zoom logo](https://posthog.com/wp-content/uploads/2020/04/zoom-logo.png)
 
@@ -120,8 +182,9 @@ The underrated part of this is that the freemium offering is very simple - ensur
 
 Zoom had 3 millions meeting participants in 2013 - this was 30 million in 2014 and 100 million in 2015
 
+------
 
-### Typeform was excellent at Delivering / Delighting / Retaining Users
+## Typeform is excellent at Delivering / Delighting / Retaining Users
 
 ![Typeform logo](https://posthog.com/wp-content/uploads/2020/04/typeform-logo-e1586796641495.png)
 
@@ -137,12 +200,11 @@ But with a focus on delighting users and making the product speak for itself Typ
 
 [The CEO himself focused on the "unique experience" of the user](https://saasclub.io/podcast/typeform-a-case-study-in-product-led-saas-growth-with-david-okuniev-230/)
 
-“We were much more differentiated in the early days because everyone was just doing the plain vanilla forms. 
-These companies doing feedback as...data collection will always be very focused only on the analysis of data, the actual collection through the form was just a means to an end. No company ever thought of actually making that into a great experience.”
+*“We were much more differentiated in the early days because everyone was just doing the plain vanilla forms. 
+These companies doing feedback as...data collection will always be very focused only on the analysis of data, the actual collection through the form was just a means to an end. No company ever thought of actually making that into a great experience.”*
 
 ![typeform gif](https://posthog.com/wp-content/uploads/2020/04/typeform-example.gif)
 
 Virality isn’t enough - the continued focus on developing something that will delight your users is key too.
-
  
 Typeform ran in beta for 12 months to get this right - that product led growth approach did mean they jumped to $1m in annual recurring revenue 12 months after introducing a paid plan.
