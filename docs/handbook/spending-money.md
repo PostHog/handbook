@@ -70,5 +70,25 @@ If you need to work in a noisy environment and don't already have a noise cancel
 
 We would expect to spend ~$200 on noise cancelling headphones.
 
- 
+## Software
 
+Software expenses are treated as above and will generally fall into trivial.
+
+We are *strongly opposed* to introducing new software that is designed for collaboration by default. There needs to be a very significant upside to introducing a new piece of software to outweigh its cost.
+
+The cost of introducing new collaborative software is that it creates another place where todo items / comments / communication can exist. This creates a disproportionate amount of complexity.
+
+Our entire stack for collaborative software is pleasing simple. All we use is:
+
+* Google Sheets - spreadsheets
+* GitHub - documents, code, discussion
+* Slack (premium) - chat (although we encourage you to default into discussion of features/strategy etc into GitHub)
+* PostHog - product analytics
+* Figma - graphic design
+
+Individual software is down to personal preference, and we encourage you to share cool software.
+
+### IDEs
+
+* IDEs range widely in cost. Best in class can cost up to $700. We remain sceptical if a best in class IDE is worth several  days of engineering time. However, we are happy to revisit this policy whenever we reach the sooner of profitability or a Series A.
+* Before then, if you wish to spend up to $100 on an IDE, that is fine. Visual Studio, VIM and Sublime are the most popular with our team.
