@@ -78,7 +78,7 @@ Now that we've raised our seed, we have the money to comfortably hire about 8 re
 
 A couple of "rules":
 * Tim and James should remain [working managers](https://m.signalvnoise.com/this-is-why-we-have-working-managers-at-basecamp-and-why-microsoft-and-apple-stumbled-when-they/).
-  * That means hiring [managers of one](https://signalvnoise.com/posts/1430-hire-managers-of-one).
+  * That means hiring [managers of one](https://signalvnoise.com/posts/1430-hire-managers-of-one), see also our [hiring criteria](https://github.com/PostHog/handbook/issues/5).
 * We are too small for tiered management, and will be until after we raise a Series A.
 * We don't _have_ to hire all the people we have money for. In fact, we should find ways of achieving our roadmap with the fewest people possible in the given timeframe.
 
@@ -93,27 +93,29 @@ At the moment, our team is heavily weighted towards frontend/backend development
 We could also use more firepower to deliver features faster, though we should be careful with hiring more generalists early on. We could end up needing too much co-ordination. The priority should be a devops/backend scaling generalist.
 
 ### The plan:
-* 2020 Q2: Hire 1 engineer, total of 4 engineers (including Tim)
-* 2020 Q3: Hire 1 designer, total 4 engineers 1 designer
-* 2020 Q4: Hire 2 engineers, total 6 engineers 1 designer
+* 2020 Q2: Hire 1 devops-generalist, total of 4 engineers (including Tim)
+* 2020 Q3: Hire 1 engineer, total 5 engineers
+* 2020 Q4: Hire 1 engineer, one designer, total 6 engineers 1 designer
 * 2021 Q1: Hire 1 engineer, total 7 engineers 1 designer
 
-Of the new hires, one should be DevOps and one Growth.
+*note*: We'll start looking for a contractor designer straight away to do visual identity, logo etc. We might end up hiring that person a bit sooner.
+
 
 ### The roles
 
-*DevOps*
-* Write guides on how to deploy PostHog on each cloud provider (and different variations, like EC2, ECS)
+*DevOps generalist*
+*(order of priority*)
+* Write docs on how to deploy PostHog on each cloud provider (and different variations, like EC2, ECS)
 * Support clients' deployment
-* Scale and optimise Postgres database and queries
-* Support our own deployment of PostHog
+* Write features/fix bugs using Django/React
 * Improve performance of app and event ingestion
+* Support our own deployment of PostHog
 * CI/CD pipeline setup/maintenance 
 * Write automated managed deployments on AWS/GCP etc
 
 *Generalist*
 * Write features/fix bugs using Django/React
-* Engage with community to fix issues/help with setup
+* Engage with community to fix issues/help with setup/support
 * Write documentation
 
 *Growth*
@@ -130,3 +132,5 @@ Of the new hires, one should be DevOps and one Growth.
 * (maybe) create brand guidelines and ensure consistency
 * Misc design of emails, blog posts
 * Might report to James
+
+*note*: We're _not_ going to hire customer support people. The best possible support we can give, while maximising for learning, is by having engineers do the support. It's much better for an engineer to get a bug report -> put a fix live in an hour, rather than having a customer support person 'escalating' a bug and waiting days for a fix. [See discussion.](https://github.com/PostHog/handbook/pull/39#discussion_r415375372)
