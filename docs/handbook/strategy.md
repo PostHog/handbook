@@ -89,6 +89,7 @@ At the moment, our team is heavily weighted towards frontend/backend development
 * Experience scaling Postgres to terabytes
 * Great visual/UX designer
 * Marketing/growth
+  * This should come later as we will be changing the product around too much to 'optimize' it yet.
 
 We could also use more firepower to deliver features faster, though we should be careful with hiring more generalists early on. We could end up needing too much co-ordination. The priority should be a devops/backend scaling generalist.
 
@@ -106,8 +107,9 @@ We could also use more firepower to deliver features faster, though we should be
 *DevOps generalist*
 *(order of priority*)
 * Write docs on how to deploy PostHog on each cloud provider (and different variations, like EC2, ECS)
-* Support clients' deployment
+* Support clients' deployment, especially those with high scale
 * Write features/fix bugs using Django/React
+* Work out a way of splitting free/paid versions of codebase
 * Improve performance of app and event ingestion
 * Support our own deployment of PostHog
 * CI/CD pipeline setup/maintenance 
