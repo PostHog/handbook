@@ -108,6 +108,7 @@ We could also use more firepower to deliver features faster, though we should be
 *(order of priority*)
 * Write docs on how to deploy PostHog on each cloud provider (and different variations, like EC2, ECS)
 * Support clients' deployment, especially those with high scale
+* Get us listed as 'deploy to X' on as many hosting/cloud providers as possible
 * Write features/fix bugs using Django/React
 * Work out a way of splitting free/paid versions of codebase
 * Improve performance of app and event ingestion
