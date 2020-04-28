@@ -95,7 +95,7 @@ At the moment, our team is heavily weighted towards frontend/backend development
 We could also use more firepower to deliver features faster, though we should be careful with hiring more generalists early on. We could end up needing too much co-ordination. The priority should be a devops/backend scaling generalist.
 
 ### The plan:
-* 2020 Q2: Hire 1 devops-generalist, total of 4 engineers (including Tim)
+* 2020 Q2: Hire 1 devops-generalist, total of 4 engineers (including Tim, so not full engineer)
 * 2020 Q3: Hire 1 engineer, total 5 engineers
 * 2020 Q4: Hire 1 engineer, one designer, total 6 engineers 1 designer
 * 2021 Q1: Hire 1 engineer, total 7 engineers 1 designer
