@@ -51,7 +51,7 @@ Product analytics tools already have product-market fit. We believe that develop
 
 Situation:
 
-* We will have around $1.8M in cash.
+* We will have around $2.8M in cash.
 * If the world goes into a significant recession, a capital intensive business may become a lot harder to fuel as LPs withdraw from VCs.
 * We need to get to a series A without raising further money.
 
@@ -66,6 +66,75 @@ What we will build:
 
 Making money:
 
-* We will focus on small customers first. This is because we will optimize for learning. There are more of them and they will be faster to learn from. Product analytics tools often charge 100 person startups $20-70K/year.
-* We can undercut SAAS product analytics tools because we have no hosting costs.
-* Over time, we will put more work into our innovation, and the biggest and brightest companies will realize that we are the market leader.
+The first 6-12 months we will focus solely on developer adoption. After that, we'll slowly and carefully start introducing paid features for our enterprise customers. Those will include
+
+* Setting up a self-serve hosted version
+* Building some of the growth/ultimate plan features like experimentation
+
+We will continue to offer a paid hosted version of our service, but we don't expect this to be a huge driver of revenue.
+
+## Hiring
+
+Now that we've raised our seed, we have the money to comfortably hire about 8 remote people and have 3 years of runway, taking us to the end of Q2 2023.
+
+A couple of "rules":
+* Tim and James should remain [working managers](https://m.signalvnoise.com/this-is-why-we-have-working-managers-at-basecamp-and-why-microsoft-and-apple-stumbled-when-they/).
+  * That means hiring [managers of one](https://signalvnoise.com/posts/1430-hire-managers-of-one), see also our [hiring criteria](https://github.com/PostHog/handbook/issues/5).
+* We are too small for tiered management, and will be until after we raise a Series A.
+* We don't _have_ to hire all the people we have money for. In fact, we should find ways of achieving our roadmap with the fewest people possible in the given timeframe.
+
+At the moment, our team is heavily weighted towards frontend/backend development. We're currently lacking:
+* Deep experience with DevOps and the various cloud providers
+  * We need this because we want to be able to deploy PostHog on as many platforms as possible + support
+* Experience scaling systems to 100s of requests/sec
+* Experience scaling Postgres to terabytes
+* Great visual/UX designer
+* Marketing/growth
+  * This should come later as we will be changing the product around too much to 'optimize' it yet.
+
+We could also use more firepower to deliver features faster, though we should be careful with hiring more generalists early on. We could end up needing too much co-ordination. The priority should be a devops/backend scaling generalist.
+
+### The plan:
+* 2020 Q2: Hire 1 devops-generalist, total of 4 engineers (including Tim, so not full engineer)
+* 2020 Q3: Hire 1 engineer, total 5 engineers
+* 2020 Q4: Hire 1 engineer, one designer, total 6 engineers 1 designer
+* 2021 Q1: Hire 1 engineer, total 7 engineers 1 designer
+
+*note*: We'll start looking for a contractor designer straight away to do visual identity, logo etc. We might end up hiring that person a bit sooner.
+
+
+### The roles
+
+*DevOps generalist*
+*(order of priority*)
+* Write docs on how to deploy PostHog on each cloud provider (and different variations, like EC2, ECS)
+* Support clients' deployment, especially those with high scale
+* Get us listed as 'deploy to X' on as many hosting/cloud providers as possible
+* Write features/fix bugs using Django/React
+* Work out a way of splitting free/paid versions of codebase
+* Improve performance of app and event ingestion
+* Support our own deployment of PostHog
+* CI/CD pipeline setup/maintenance 
+* Write automated managed deployments on AWS/GCP etc
+
+*Generalist*
+* Write features/fix bugs using Django/React
+* Engage with community to fix issues/help with setup/support
+* Write documentation
+
+*Growth*
+* Find ways of driving traffic to website/repo, both free and paid
+* Improve funnel metrics from landing all the way to daily usage
+* Set up a way for people to go from free to paid on our hosted version
+* Will likely report to James
+
+*Designer/UX*
+* Create mockups for new features
+* Ongoing design for posthog.com 
+* Improve design/UX on current features
+* Design documentation
+* (maybe) create brand guidelines and ensure consistency
+* Misc design of emails, blog posts
+* Might report to James
+
+*note*: We're _not_ going to hire customer support people. The best possible support we can give, while maximising for learning, is by having engineers do the support. It's much better for an engineer to get a bug report -> put a fix live in an hour, rather than having a customer support person 'escalating' a bug and waiting days for a fix. [See discussion.](https://github.com/PostHog/handbook/pull/39#discussion_r415375372)
