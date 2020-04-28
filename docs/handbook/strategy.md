@@ -66,11 +66,12 @@ What we will build:
 
 Making money:
 
-We'll have three routes to generating revenue
+The first 6-12 months we will focus solely on developer adoption. After that, we'll slowly and carefully start introducing paid features for our enterprise customers. Those will include
 
-* Set up a self-serve hosted version
-* Build some of the growth/ultimate plan features like experimentation
-* Support self-hosted
+* Setting up a self-serve hosted version
+* Building some of the growth/ultimate plan features like experimentation
+
+We will continue to offer a paid hosted version of our service, but we don't expect this to be a huge driver of revenue.
 
 ## Hiring
 
